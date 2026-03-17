@@ -2,7 +2,7 @@ This repository accompanies the PhD thesis:
 
 **A Data-Constrained Framework for Marine Biogeochemistry Modeling with Applications to the Paranaguá Estuarine Complex**
 
-**Author:** Letícia Becher (Letícia Becher Yamashita)
+**Author:** Leticia Becher (Letícia Becher Yamashita)
 
 **Institution:** Federal University of Paraná (UFPR) – Department of Mathematics
 
