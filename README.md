@@ -8,4 +8,7 @@ This repository accompanies the PhD thesis:
 
 **Year:** 2026
 
-The thesis is available at: https://acervodigital.ufpr.br/xmlui/handle/1884/100798
+The thesis is available at: 
+http://arxiv.org/abs/2603.15580
+
+and https://acervodigital.ufpr.br/xmlui/handle/1884/100798
